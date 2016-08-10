@@ -1,2 +1,4 @@
 # project
-practice
+
+practicing git commands with contributors and stuffs
+
